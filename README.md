@@ -10,3 +10,7 @@ In this course I completed 3 components for a toy programming language:
 ## Evaluator
 
 ## Typing
+
+## Credit
+Project Details Copyright Rose Bohrer 2023
+All Project Solutions are completed by myself
