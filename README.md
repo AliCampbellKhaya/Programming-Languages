@@ -13,4 +13,4 @@ In this course I completed 3 components for a toy programming language:
 
 ## Credit
 Project Details Copyright Rose Bohrer 2023 \
-All Project Solutions are completed by myself
+All Project Solutions are completed entirely by myself, Alasdair Campbell
