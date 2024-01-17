@@ -1,0 +1,9 @@
+C:\Users\bbohrer\Dropbox\PC\Documents\GitHub\pl-course-private\asgn3\asgn3\target\debug\deps\archery-a0280dc5fb4f7e7a.rmeta: C:\Users\bbohrer\.cargo\registry\src\github.com-1ecc6299db9ec823\archery-0.5.0\src\lib.rs C:\Users\bbohrer\.cargo\registry\src\github.com-1ecc6299db9ec823\archery-0.5.0\src\shared_pointer\mod.rs C:\Users\bbohrer\.cargo\registry\src\github.com-1ecc6299db9ec823\archery-0.5.0\src\shared_pointer\kind\mod.rs C:\Users\bbohrer\.cargo\registry\src\github.com-1ecc6299db9ec823\archery-0.5.0\src\shared_pointer\kind\arc\mod.rs C:\Users\bbohrer\.cargo\registry\src\github.com-1ecc6299db9ec823\archery-0.5.0\src\shared_pointer\kind\rc\mod.rs
+
+C:\Users\bbohrer\Dropbox\PC\Documents\GitHub\pl-course-private\asgn3\asgn3\target\debug\deps\archery-a0280dc5fb4f7e7a.d: C:\Users\bbohrer\.cargo\registry\src\github.com-1ecc6299db9ec823\archery-0.5.0\src\lib.rs C:\Users\bbohrer\.cargo\registry\src\github.com-1ecc6299db9ec823\archery-0.5.0\src\shared_pointer\mod.rs C:\Users\bbohrer\.cargo\registry\src\github.com-1ecc6299db9ec823\archery-0.5.0\src\shared_pointer\kind\mod.rs C:\Users\bbohrer\.cargo\registry\src\github.com-1ecc6299db9ec823\archery-0.5.0\src\shared_pointer\kind\arc\mod.rs C:\Users\bbohrer\.cargo\registry\src\github.com-1ecc6299db9ec823\archery-0.5.0\src\shared_pointer\kind\rc\mod.rs
+
+C:\Users\bbohrer\.cargo\registry\src\github.com-1ecc6299db9ec823\archery-0.5.0\src\lib.rs:
+C:\Users\bbohrer\.cargo\registry\src\github.com-1ecc6299db9ec823\archery-0.5.0\src\shared_pointer\mod.rs:
+C:\Users\bbohrer\.cargo\registry\src\github.com-1ecc6299db9ec823\archery-0.5.0\src\shared_pointer\kind\mod.rs:
+C:\Users\bbohrer\.cargo\registry\src\github.com-1ecc6299db9ec823\archery-0.5.0\src\shared_pointer\kind\arc\mod.rs:
+C:\Users\bbohrer\.cargo\registry\src\github.com-1ecc6299db9ec823\archery-0.5.0\src\shared_pointer\kind\rc\mod.rs:

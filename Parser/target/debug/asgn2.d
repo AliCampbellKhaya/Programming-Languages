@@ -1,0 +1,1 @@
+C:\Users\alica\Documents\CS4536\ Programming\ Languages\Programming-Languages\Parser\target\debug\asgn2.exe: C:\Users\alica\Documents\CS4536\ Programming\ Languages\Programming-Languages\Parser\src\main.rs C:\Users\alica\Documents\CS4536\ Programming\ Languages\Programming-Languages\Parser\src\parser.rs
